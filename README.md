@@ -7,9 +7,7 @@ Facebook: https:facebook.com/cantixcrew/
 
 instagram: https://instagram.com/cantix_crew/
 
-[+] Installation
-Watch Video: https://www.youtube.com/watch?v=8KvY2NM47ZM
-```
+
 git clone https://github.com/cantix/cantixv2.git
 cd cantixv2
 chmod +x cantixv2.py
